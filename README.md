@@ -1,4 +1,4 @@
- Hi, I’m Dancan mutuku.I’m interested in web development and app development.I'm currently learning python,Django and more about Database administration and looking to collaborate on any project. 
+
 # 💫 About Me:
  Hi, I’m Dancan mutuku.I’m interested in web development and app development.I'm currently learning python,Django and more about Database administration and looking to collaborate on any project. 
 
