@@ -1,7 +1,7 @@
 
 # 💫 About Me:
  Hi, I’m a Fullstack developer,a Python programmer. I’m interested in web development and app development.I'm currently learning python,Django and more about Database administration and looking to collaborate on any project. 
-
+Currently doing Django projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/dancan-mutuku-aa3b4925b/) 
